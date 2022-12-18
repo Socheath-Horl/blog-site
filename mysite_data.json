@@ -1,0 +1,1563 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-12-16T15:16:44.778Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Customizing how models are displayed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-12-17T12:15:47.494Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Working with QuerySets and managers",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-12-17T12:18:52.038Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Adding models to the administration site",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-12-17T12:21:09.145Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Working with QuerySets and managers",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-12-17T13:05:19.205Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Adding models to the administration site",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-12-17T13:05:25.986Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Customizing how models are displayed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-12-17T13:40:01.468Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Creating a pagination template",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-12-17T16:06:49.471Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Comment by Test on Creating a pagination template",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-12-18T03:38:03.779Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Retrieving posts by similarity",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-12-18T03:39:33.097Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Adding the tagging functionality",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-12-18T03:40:13.029Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Extending Your Blog Application",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-12-18T03:41:35.303Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Working with QuerySets and managers",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-12-18T03:41:54.411Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Adding models to the administration site",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-12-18T03:42:15.788Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Creating a pagination template",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-12-18T04:06:20.551Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Creating custom template tags and filters",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-12-18T04:06:50.814Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Creating custom template tags and filters",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-12-18T04:07:23.948Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Implementing custom template tags",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-12-18T04:10:06.495Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Creating a simple template tag",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-12-18T04:16:47.330Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Creating a simple template tag",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-12-18T04:16:53.903Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Implementing custom template tags",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-12-18T04:17:00.776Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Creating custom template tags and filters",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-12-18T04:18:15.370Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "11",
+        "object_repr": "Creating an inclusion template tag",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-12-18T04:25:04.009Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "12",
+        "object_repr": "Creating a template tag that returns a QuerySet",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-12-18T04:34:08.221Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "13",
+        "object_repr": "Implementing custom template filters",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-12-18T04:36:05.982Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "14",
+        "object_repr": "Creating a template filter to support Markdown syntax",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-12-18T04:43:31.203Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "15",
+        "object_repr": "This is a post formatted with markdown",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-12-18T05:33:29.217Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add post",
+        "content_type": 7,
+        "codename": "add_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change post",
+        "content_type": 7,
+        "codename": "change_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete post",
+        "content_type": 7,
+        "codename": "delete_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view post",
+        "content_type": 7,
+        "codename": "view_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add comment",
+        "content_type": 8,
+        "codename": "add_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change comment",
+        "content_type": 8,
+        "codename": "change_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete comment",
+        "content_type": 8,
+        "codename": "delete_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view comment",
+        "content_type": 8,
+        "codename": "view_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add tag",
+        "content_type": 9,
+        "codename": "add_tag"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change tag",
+        "content_type": 9,
+        "codename": "change_tag"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete tag",
+        "content_type": 9,
+        "codename": "delete_tag"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view tag",
+        "content_type": 9,
+        "codename": "view_tag"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add tagged item",
+        "content_type": 10,
+        "codename": "add_taggeditem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change tagged item",
+        "content_type": 10,
+        "codename": "change_taggeditem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete tagged item",
+        "content_type": 10,
+        "codename": "delete_taggeditem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view tagged item",
+        "content_type": 10,
+        "codename": "view_taggeditem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add site",
+        "content_type": 11,
+        "codename": "add_site"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change site",
+        "content_type": 11,
+        "codename": "change_site"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete site",
+        "content_type": 11,
+        "codename": "delete_site"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view site",
+        "content_type": 11,
+        "codename": "view_site"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$yi9Re2BrAEMpjfeqrrv0vA$nwCYGoao6/xrFzsEJ+IZIMW2ldRF2Ji+ZKwA/QG4d+0=",
+        "last_login": "2022-12-17T12:14:11.152Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@mysite.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-12-16T15:11:56.611Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "blog",
+        "model": "post"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "blog",
+        "model": "comment"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "taggit",
+        "model": "tag"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "taggit",
+        "model": "taggeditem"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "sites",
+        "model": "site"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "a8tgpjphsshs5fbi15almx5xgvhgpbpl",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAURO_C2pBCQapL956B_P4_SNVAUtqV8e7apAvdzntvXirSuuS4NsxxEnVWRh1-t5H4gbIBuVO5Vc21LPM06k3RO236WgXPy-7-HWRq-VuDEQTUwSMMiXtrB9MlSGDrg03-mMCOyDvxDMfwlEyQ4HByxvaW1fsDGsg49g:1p6CO6:IyWu1wlpV-q13NBLio_Pj-69f40YTEl0OFuGO-q6NaQ",
+        "expire_date": "2022-12-30T15:12:38.487Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qpdpey7m5ceayh5tvvpxujavdm5zplsk",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAURO_C2pBCQapL956B_P4_SNVAUtqV8e7apAvdzntvXirSuuS4NsxxEnVWRh1-t5H4gbIBuVO5Vc21LPM06k3RO236WgXPy-7-HWRq-VuDEQTUwSMMiXtrB9MlSGDrg03-mMCOyDvxDMfwlEyQ4HByxvaW1fsDGsg49g:1p6W4x:No0_dQjVjPgDQzco4iJ-KSQaw8GeLBLveZPvHErCYlk",
+        "expire_date": "2022-12-31T12:14:11.344Z"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 1,
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "title": "Customizing how models are displayed",
+        "slug": "customizing-how-models-are-displayed",
+        "author": 1,
+        "body": "We are telling the Django administration site that the model is registered in the site using a custom class that inherits from ModelAdmin. In this class, we can include information about how to display the model on the site and how to interact with it.\r\n\r\nThe list_display attribute allows you to set the fields of your model that you want to display on the administration object list page. The @admin.register() decorator performs the same function as the admin.site.register() function that you replaced, registering the ModelAdmin class that it decorates.\r\n\r\nLet’s customize the admin model with some more options.\r\n\r\nEdit the admin.py file of your blog application and change it, as follows. The new lines are highlighted in bold:",
+        "publish": "2022-12-16T15:14:50Z",
+        "created": "2022-12-16T15:16:44.777Z",
+        "updated": "2022-12-17T13:05:25.984Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "title": "Working with QuerySets and managers",
+        "slug": "working-with-querywets-and-managers",
+        "author": 1,
+        "body": "Now that we have a fully functional administration site to manage blog posts, it is a good time to learn how to read and write content to the database programmatically.\r\n\r\nThe Django object-relational mapper (ORM) is a powerful database abstraction API that lets you create, retrieve, update, and delete objects easily. An ORM allows you to generate SQL queries using the object-oriented paradigm of Python. You can think of it as a way to interact with your database in pythonic fashion instead of writing raw SQL queries.\r\n\r\nThe ORM maps your models to database tables and provides you with a simple pythonic interface to interact with your database. The ORM generates SQL queries and maps the results to model objects. The Django ORM is compatible with MySQL, PostgreSQL, SQLite, Oracle, and MariaDB.\r\n\r\nRemember that you can define the database of your project in the DATABASES setting of your project’s settings.py file. Django can work with multiple databases at a time, and you can program database routers to create custom data routing schemes.",
+        "publish": "2022-12-17T12:14:58Z",
+        "created": "2022-12-17T12:15:47.493Z",
+        "updated": "2022-12-18T03:41:35.293Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "title": "Adding models to the administration site",
+        "slug": "adding-models-to-the-administration-site",
+        "author": 1,
+        "body": "That was easy, right? When you register a model in the Django administration site, you get a user-friendly interface generated by introspecting your models that allows you to list, edit, create, and delete objects in a simple way.\r\n\r\nClick on the Add link beside Posts to add a new post. You will note the form that Django has generated dynamically for your model, as shown in Figure 1.9:",
+        "publish": "2022-12-17T12:18:21Z",
+        "created": "2022-12-17T12:18:52.036Z",
+        "updated": "2022-12-18T03:41:54.401Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+        "title": "Creating a pagination template",
+        "slug": "creating-a-pagination-template",
+        "author": 1,
+        "body": "We need to create a page navigation for users to browse through the different pages. We will create a template to display the pagination links. We will make it generic so that we can reuse the template for any object pagination on our website.\r\n\r\nIn the templates/ directory, create a new file and name it pagination.xhtml. Add the following HTML code to the file",
+        "publish": "2022-12-17T13:39:40Z",
+        "created": "2022-12-17T13:40:01.467Z",
+        "updated": "2022-12-18T03:42:15.779Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+        "title": "Retrieving posts by similarity",
+        "slug": "retrieving-posts-by-similarity",
+        "author": 1,
+        "body": "Now that we have implemented tagging for blog posts, you can do many interesting things with tags. Tags allow you to categorize posts in a non-hierarchical manner. Posts about similar topics will have several tags in common. We will build a functionality to display similar posts by the number of tags they share. In this way, when a user reads a post, we can suggest to them that they read other related posts.\r\n\r\nIn order to retrieve similar posts for a specific post, you need to perform the following steps:\r\n\r\nRetrieve all tags for the current post\r\nGet all posts that are tagged with any of those tags\r\nExclude the current post from that list to avoid recommending the same post\r\nOrder the results by the number of tags shared with the current post\r\nIn the case of two or more posts with the same number of tags, recommend the most recent post\r\nLimit the query to the number of posts you want to recommend\r\nThese steps are translated into a complex QuerySet that you will include in your post_detail view.",
+        "publish": "2022-12-18T03:37:20Z",
+        "created": "2022-12-18T03:38:03.766Z",
+        "updated": "2022-12-18T03:38:03.767Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+        "title": "Adding the tagging functionality",
+        "slug": "adding-the-tagging-functionality",
+        "author": 1,
+        "body": "A very common functionality in blogs is to categorize posts using tags. Tags allow you to categorize content in a non-hierarchical manner, using simple keywords. A tag is simply a label or keyword that can be assigned to posts. We will create a tagging system by integrating a third-party Django tagging application into the project.\r\n\r\ndjango-taggit is a reusable application that primarily offers you a Tag model and a manager to easily add tags to any model. You can take a look at its source code at https://github.com/jazzband/django-taggit.",
+        "publish": "2022-12-18T03:38:29Z",
+        "created": "2022-12-18T03:39:33.088Z",
+        "updated": "2022-12-18T03:39:33.088Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 7,
+    "fields": {
+        "title": "Extending Your Blog Application",
+        "slug": "extending-your-blog-application",
+        "author": 1,
+        "body": "The previous chapter went through the basics of forms and the creation of a comment system. You also learned how to send emails with Django. In this chapter, you will extend your blog application with other popular features used on blogging platforms, such as tagging, recommending similar posts, providing an RSS feed to readers, and allowing them to search posts. You will learn about new components and functionalities with Django by building these functionalities.\r\n\r\nThe chapter will cover the following topics:\r\n\r\nIntegrating third-party applications\r\nUsing django-taggit to implement a tagging system\r\nBuilding complex QuerySets to recommend similar posts\r\nCreating custom template tags and filters to show a list of the latest posts and most commented posts in the sidebar\r\nCreating a sitemap using the sitemap framework\r\nBuilding an RSS feed using the syndication framework\r\nInstalling PostgreSQL\r\nImplementing a full-text search engine with Django and PostgreSQL\r\nThe source code for this chapter can be found at https://github.com/PacktPublishing/Django-4-by-example/tree/main/Chapter03.\r\n\r\nAll Python packages used in this chapter are included in the requirements.txt file in the source code for the chapter. You can follow the instructions to install each Python package in the following sections, or you can install all the requirements at once with the command pip install -r requirements.txt.",
+        "publish": "2022-12-18T03:39:33Z",
+        "created": "2022-12-18T03:40:13.018Z",
+        "updated": "2022-12-18T03:40:13.018Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 8,
+    "fields": {
+        "title": "Creating custom template tags and filters",
+        "slug": "creating-custom-template-tags-and-filters",
+        "author": 1,
+        "body": "Django offers a variety of built-in template tags, such as {% if %} or {% block %}. You used different template tags in Chapter 1, Building a Blog Application, and Chapter 2, Enhancing Your Blog with Advanced Features. You can find a complete reference of built-in template tags and filters at https://docs.djangoproject.com/en/4.1/ref/templates/builtins/.\r\n\r\nDjango also allows you to create your own template tags to perform custom actions. Custom template tags come in very handy when you need to add a functionality to your templates that is not covered by the core set of Django template tags. This can be a tag to execute a QuerySet or any server-side processing that you want to reuse across templates. For example, we could build a template tag to display the list of latest posts published on the blog. We could include this list in the sidebar, so that it is always visible, regardless of the view that processes the request.",
+        "publish": "2022-12-18T04:05:42Z",
+        "created": "2022-12-18T04:06:20.542Z",
+        "updated": "2022-12-18T04:17:00.772Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 9,
+    "fields": {
+        "title": "Implementing custom template tags",
+        "slug": "implementing-custom-template-tags",
+        "author": 1,
+        "body": "Django provides the following helper functions that allow you to easily create template tags:\r\n\r\nsimple_tag: Processes the given data and returns a string\r\ninclusion_tag: Processes the given data and returns a rendered template\r\nTemplate tags must live inside Django applications.\r\n\r\nInside your blog application directory, create a new directory, name it templatetags, and add an empty __init__.py file to it. Create another file in the same folder and name it blog_tags.py. The file structure of the blog application should look like the following:",
+        "publish": "2022-12-18T04:06:54Z",
+        "created": "2022-12-18T04:07:23.938Z",
+        "updated": "2022-12-18T04:16:53.899Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 10,
+    "fields": {
+        "title": "Creating a simple template tag",
+        "slug": "creating-a-simple-template-tag",
+        "author": 1,
+        "body": "We have created a simple template tag that returns the number of posts published in the blog.\r\n\r\nEach module that contains template tags needs to define a variable called register to be a valid tag library. This variable is an instance of template.Library, and it’s used to register the template tags and filters of the application.\r\n\r\nIn the preceding code, we have defined a tag called total_posts with a simple Python function. We have added the @register.simple_tag decorator to the function, to register it as a simple tag. Django will use the function’s name as the tag name. If you want to register it using a different name, you can do so by specifying a name attribute, such as @register.simple_tag(name='my_tag').",
+        "publish": "2022-12-18T04:09:40Z",
+        "created": "2022-12-18T04:10:06.486Z",
+        "updated": "2022-12-18T04:16:47.326Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 11,
+    "fields": {
+        "title": "Creating an inclusion template tag",
+        "slug": "creating-an-inclusion-template-tag",
+        "author": 1,
+        "body": "In the preceding code, we have registered the template tag using the @register.inclusion_tag decorator. We have specified the template that will be rendered with the returned values using blog/post/latest_posts.xhtml. The template tag will accept an optional count parameter that defaults to 5. This parameter will allow us to specify the number of posts to display. We use this variable to limit the results of the query Post.published.order_by('-publish')[:count].\r\n\r\nNote that the function returns a dictionary of variables instead of a simple value. Inclusion tags have to return a dictionary of values, which is used as the context to render the specified template. The template tag we just created allows us to specify the optional number of posts to display as {% show_latest_posts 3 %}.\r\n\r\nNow, create a new template file under blog/post/ and name it latest_posts.xhtml.\r\n\r\nEdit the new blog/post/latest_posts.xhtml template and add the following code to it:",
+        "publish": "2022-12-18T04:17:46Z",
+        "created": "2022-12-18T04:18:15.364Z",
+        "updated": "2022-12-18T04:18:15.364Z",
+        "status": "DF"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 12,
+    "fields": {
+        "title": "Creating a template tag that returns a QuerySet",
+        "slug": "creating-a-template-tag-that-returns-a-queryset",
+        "author": 1,
+        "body": "In the preceding template tag, you build a QuerySet using the annotate() function to aggregate the total number of comments for each post. You use the Count aggregation function to store the number of comments in the computed total_comments field for each Post object. You order the QuerySet by the computed field in descending order. You also provide an optional count variable to limit the total number of objects returned.\r\n\r\nIn addition to Count, Django offers the aggregation functions Avg, Max, Min, and Sum. You can read more about aggregation functions at https://docs.djangoproject.com/en/4.1/topics/db/aggregation/.\r\n\r\nNext, edit the blog/base.xhtml template and add the following code highlighted in bold:",
+        "publish": "2022-12-18T04:18:15Z",
+        "created": "2022-12-18T04:25:03.997Z",
+        "updated": "2022-12-18T04:25:03.997Z",
+        "status": "DF"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 13,
+    "fields": {
+        "title": "Implementing custom template filters",
+        "slug": "implementing-custom-template-filters",
+        "author": 1,
+        "body": "Django has a variety of built-in template filters that allow you to alter variables in templates. These are Python functions that take one or two parameters, the value of the variable that the filter is applied to, and an optional argument. They return a value that can be displayed or treated by another filter.\r\n\r\nA filter is written like {{ variable|my_filter }}. Filters with an argument are written like {{ variable|my_filter:\"foo\" }}. For example, you can use the capfirst filter to capitalize the first character of the value, like {{ value|capfirst }}. If value is django, the output will be Django. You can apply as many filters as you like to a variable, for example, {{ variable|filter1|filter2 }}, and each filter will be applied to the output generated by the preceding filter.\r\n\r\nYou can find the list of Django’s built-in template filters at https://docs.djangoproject.com/en/4.1/ref/templates/builtins/#built-in-filter-reference.",
+        "publish": "2022-12-18T04:33:38Z",
+        "created": "2022-12-18T04:34:08.209Z",
+        "updated": "2022-12-18T04:34:08.209Z",
+        "status": "DF"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 14,
+    "fields": {
+        "title": "Creating a template filter to support Markdown syntax",
+        "slug": "creating-a-template-filter-to-support-markdown-syntax",
+        "author": 1,
+        "body": "We will create a custom filter to enable you to use Markdown syntax in your blog posts and then convert the post body to HTML in the templates.\r\n\r\nMarkdown is a plain text formatting syntax that is very simple to use, and it’s intended to be converted into HTML. You can write posts using simple Markdown syntax and get the content automatically converted into HTML code. Learning Markdown syntax is much easier than learning HTML. By using Markdown, you can get other non-tech savvy contributors to easily write posts for your blog. You can learn the basics of the Markdown format at https://daringfireball.net/projects/markdown/basics.\r\n\r\nFirst, install the Python markdown module via pip using the following command in the shell prompt:",
+        "publish": "2022-12-18T04:34:08Z",
+        "created": "2022-12-18T04:36:05.973Z",
+        "updated": "2022-12-18T04:36:05.973Z",
+        "status": "DF"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 15,
+    "fields": {
+        "title": "This is a post formatted with markdown",
+        "slug": "this-is-a-post-formatted-with-markdown",
+        "author": 1,
+        "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+        "publish": "2022-12-18T04:42:38Z",
+        "created": "2022-12-18T04:43:31.193Z",
+        "updated": "2022-12-18T04:43:31.193Z",
+        "status": "PB"
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+        "post": 4,
+        "name": "Socheath",
+        "email": "socheathorl173@gmail.com",
+        "body": "I love this post",
+        "created": "2022-12-17T16:02:34.062Z",
+        "updated": "2022-12-17T16:02:34.062Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 2,
+    "fields": {
+        "post": 4,
+        "name": "Heng",
+        "email": "heng@gmail.com",
+        "body": "This post is great.",
+        "created": "2022-12-17T16:03:23.204Z",
+        "updated": "2022-12-17T16:03:23.204Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 3,
+    "fields": {
+        "post": 4,
+        "name": "Test",
+        "email": "test@gmail.com",
+        "body": "This post not good.",
+        "created": "2022-12-17T16:05:56.111Z",
+        "updated": "2022-12-17T16:06:49.470Z",
+        "active": false
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 1,
+    "fields": {
+        "name": "django",
+        "slug": "django"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 2,
+    "fields": {
+        "name": "music",
+        "slug": "music"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 3,
+    "fields": {
+        "name": "jazz",
+        "slug": "jazz"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 4,
+    "fields": {
+        "name": "similarity",
+        "slug": "similarity"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 5,
+    "fields": {
+        "name": "functionality",
+        "slug": "functionality"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 6,
+    "fields": {
+        "name": "tags",
+        "slug": "tags"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 7,
+    "fields": {
+        "name": "blog",
+        "slug": "blog"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 8,
+    "fields": {
+        "name": "manager",
+        "slug": "manager"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 9,
+    "fields": {
+        "name": "adminstrator",
+        "slug": "adminstrator"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 10,
+    "fields": {
+        "name": "model",
+        "slug": "model"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 11,
+    "fields": {
+        "name": "pagination",
+        "slug": "pagination"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 12,
+    "fields": {
+        "name": "filter",
+        "slug": "filter"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 13,
+    "fields": {
+        "name": "templates",
+        "slug": "templates"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 14,
+    "fields": {
+        "name": "queryset",
+        "slug": "queryset"
+    }
+},
+{
+    "model": "taggit.tag",
+    "pk": 15,
+    "fields": {
+        "name": "markdown",
+        "slug": "markdown"
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 2,
+    "fields": {
+        "tag": 2,
+        "content_type": 7,
+        "object_id": 1
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 3,
+    "fields": {
+        "tag": 3,
+        "content_type": 7,
+        "object_id": 1
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 4,
+    "fields": {
+        "tag": 3,
+        "content_type": 7,
+        "object_id": 5
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 5,
+    "fields": {
+        "tag": 4,
+        "content_type": 7,
+        "object_id": 5
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 6,
+    "fields": {
+        "tag": 5,
+        "content_type": 7,
+        "object_id": 5
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 7,
+    "fields": {
+        "tag": 5,
+        "content_type": 7,
+        "object_id": 6
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 8,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 6
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 9,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 7
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 10,
+    "fields": {
+        "tag": 7,
+        "content_type": 7,
+        "object_id": 7
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 11,
+    "fields": {
+        "tag": 8,
+        "content_type": 7,
+        "object_id": 2
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 12,
+    "fields": {
+        "tag": 5,
+        "content_type": 7,
+        "object_id": 2
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 13,
+    "fields": {
+        "tag": 9,
+        "content_type": 7,
+        "object_id": 3
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 14,
+    "fields": {
+        "tag": 10,
+        "content_type": 7,
+        "object_id": 3
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 15,
+    "fields": {
+        "tag": 11,
+        "content_type": 7,
+        "object_id": 4
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 16,
+    "fields": {
+        "tag": 5,
+        "content_type": 7,
+        "object_id": 4
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 17,
+    "fields": {
+        "tag": 12,
+        "content_type": 7,
+        "object_id": 8
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 18,
+    "fields": {
+        "tag": 5,
+        "content_type": 7,
+        "object_id": 8
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 19,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 8
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 20,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 9
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 21,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 9
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 22,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 10
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 23,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 10
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 24,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 11
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 25,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 11
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 26,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 12
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 27,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 12
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 28,
+    "fields": {
+        "tag": 14,
+        "content_type": 7,
+        "object_id": 12
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 29,
+    "fields": {
+        "tag": 12,
+        "content_type": 7,
+        "object_id": 13
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 30,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 13
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 31,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 13
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 32,
+    "fields": {
+        "tag": 12,
+        "content_type": 7,
+        "object_id": 14
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 33,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 14
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 34,
+    "fields": {
+        "tag": 6,
+        "content_type": 7,
+        "object_id": 14
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 35,
+    "fields": {
+        "tag": 13,
+        "content_type": 7,
+        "object_id": 15
+    }
+},
+{
+    "model": "taggit.taggeditem",
+    "pk": 36,
+    "fields": {
+        "tag": 15,
+        "content_type": 7,
+        "object_id": 15
+    }
+}
+]
